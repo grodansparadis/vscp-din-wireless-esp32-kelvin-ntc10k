@@ -1,0 +1,1 @@
+# https-github.com-grodansparadis-vscp-din-wireless-esp32-kelvin-ntc10k
